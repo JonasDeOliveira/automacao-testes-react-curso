@@ -1,6 +1,6 @@
 {
   "conta": {
-    "saldo": 1020
+    "saldo": 800
   },
   "transacoes": [
     {
@@ -20,6 +20,48 @@
       "valor": "20",
       "data": "24/08/2021",
       "id": 3
+    },
+    {
+      "transacao": "saque",
+      "valor": "20",
+      "data": "27/08/2021",
+      "id": 4
+    },
+    {
+      "transacao": "saque",
+      "valor": "200",
+      "data": "27/08/2021",
+      "id": 5
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "27/08/2021",
+      "id": 6
+    },
+    {
+      "transacao": "",
+      "valor": 0,
+      "data": "27/08/2021",
+      "id": 7
+    },
+    {
+      "transacao": "",
+      "valor": 0,
+      "data": "27/08/2021",
+      "id": 8
+    },
+    {
+      "transacao": "",
+      "valor": 0,
+      "data": "27/08/2021",
+      "id": 9
+    },
+    {
+      "transacao": "saque",
+      "valor": "10",
+      "data": "27/08/2021",
+      "id": 10
     }
   ]
 }
